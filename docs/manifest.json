@@ -1,0 +1,13 @@
+{
+    "name": "IIBC Demo",
+    "short_name": "IIBC",
+    "lang": "en-US",
+    "start_url": "./",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "assets/icon/favicon.png",
+        "sizes": "64x64"
+      }
+    ]
+  }
